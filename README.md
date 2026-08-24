@@ -8,7 +8,7 @@ The **DocuSight OCR App** is a Streamlit-based web application that leverages th
 
 Experience the power of **Mistral OCR** in action! Upload PDFs or images and extract text seamlessly with this interactive **Streamlit-based OCR app**.  
 
-![Mistral OCR App Demo](demo.png)
+![Docusight OCR App Demo](Emmanuel_Duodu.jpg)
 
 
 ## Features
