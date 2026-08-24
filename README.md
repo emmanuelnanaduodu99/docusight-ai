@@ -4,7 +4,7 @@ The **DocuSight OCR App** is a Streamlit-based web application that leverages th
 
 ### 🚀 Try the Mistral OCR App Live!  
 
-🔗 **Live Demo:** [Mistral OCR App](https://mistralocrai.streamlit.app/)  
+🔗 **Live Demo:** [DocuSight OCR App](https://docusight-ai.streamlit.app/)  
 
 Experience the power of **Mistral OCR** in action! Upload PDFs or images and extract text seamlessly with this interactive **Streamlit-based OCR app**.  
 
@@ -34,7 +34,7 @@ Experience the power of **Mistral OCR** in action! Upload PDFs or images and ext
 
    ```bash
    git clone https://github.com/emmanuelnanaduodu99/docusight-ai.git
-   cd Mistral-OCR-App
+   cd DocuSight-OCR-App
    ```
 
 2. **Create and Activate a Virtual Environment (Optional but Recommended):**
@@ -60,8 +60,8 @@ Experience the power of **Mistral OCR** in action! Upload PDFs or images and ext
    ```
 
    Then install them:
-   ```bash
-   pip install -r requirements.txt
+   ```
+   pip install -r requirements.txt (installation of the requirements.txt)
    ```
 
 4. **Set Up Your Mistral API Key:**
@@ -69,12 +69,12 @@ Experience the power of **Mistral OCR** in action! Upload PDFs or images and ext
    The app requires a Mistral API key. Export your API key as an environment variable:
 
    - On macOS/Linux:
-     ```bash
+     ```
      export MISTRAL_API_KEY=your_api_key_here
      ```
 
    - On Windows (Command Prompt):
-     ```bash
+     ```
      set MISTRAL_API_KEY=your_api_key_here
      ```
 
@@ -82,7 +82,7 @@ Experience the power of **Mistral OCR** in action! Upload PDFs or images and ext
 
 To run the app, use the following command:
 
-```bash
+```
 streamlit run main.py
 ```
 
