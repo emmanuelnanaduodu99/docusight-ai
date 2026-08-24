@@ -1,6 +1,6 @@
-# Mistral OCR App
+# DocuSight AI
 
-The **Mistral OCR App** is a Streamlit-based web application that leverages the [Mistral OCR API](https://docs.mistralai.com/) to extract text from both PDF documents and images. Users can either provide a URL or upload a local file. The app displays the original document (or image) in a preview alongside the extracted OCR results and offers a seamless download option—all without refreshing the page.
+The **DocuSight OCR App** is a Streamlit-based web application that leverages the [Mistral OCR API](https://docs.mistralai.com/) to extract text from both PDF documents and images. Users can either provide a URL or upload a local file. The app displays the original document (or image) in a preview alongside the extracted OCR results and offers a seamless download option—all without refreshing the page.
 
 ### 🚀 Try the Mistral OCR App Live!  
 
@@ -33,7 +33,7 @@ Experience the power of **Mistral OCR** in action! Upload PDFs or images and ext
 1. **Clone the Repository:**
 
    ```bash
-   git clone https://github.com/AIAnytime/Mistral-OCR-App.git
+   git clone https://github.com/emmanuelnanaduodu99/docusight-ai.git
    cd Mistral-OCR-App
    ```
 
@@ -132,7 +132,7 @@ This project is licensed under the [MIT License](LICENSE).
 ## Acknowledgements
 
 - [Streamlit](https://streamlit.io/) for making interactive web app development easy.
-- [Mistralai](https://github.com/mistralai) for their powerful OCR API and Python client.
+- [Mistralai](https://github.com/emmanuelnanaduodu99) for their powerful OCR API and Python client.
 
 ## Contact
 
