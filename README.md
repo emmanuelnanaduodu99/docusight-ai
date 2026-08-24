@@ -8,7 +8,7 @@ The **DocuSight OCR App** is a Streamlit-based web application that leverages th
 
 Experience the power of **DocuSight OCR** in action! Upload PDFs or images and extract text seamlessly with this interactive **Streamlit-based OCR app**.  
 
-![Docusight OCR App Demo](Emmanuel_Duodu.jpg)
+![Docusight OCR App Demo](docusight-ai/Emmanuel_Duodu_profile.png)
 
 
 ## Features
